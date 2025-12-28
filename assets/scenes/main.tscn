@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://uawo3au5kwiq"]
+
+[ext_resource type="Script" uid="uid://bcjlnrtgea5vj" path="res://assets/scenes/main.gd" id="1_kpi06"]
+[ext_resource type="PackedScene" uid="uid://bbkih5ikx0gbh" path="res://assets/sprites/Skeleton/Skeleton.scon" id="2_kpi06"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_kpi06")
+
+[node name="Skeleton" parent="." instance=ExtResource("2_kpi06")]
+position = Vector2(540, 190)
+scale = Vector2(0.14, 0.14)

@@ -1,0 +1,14 @@
+[remap]
+
+importer="spriter.importer"
+type="PackedScene"
+uid="uid://bbkih5ikx0gbh"
+path="res://.godot/imported/Skeleton.scon-ee503287419e87ed9b1081c8f156e6bb.tscn"
+
+[deps]
+
+source_file="res://assets/sprites/Skeleton/Skeleton.scon"
+dest_files=["res://.godot/imported/Skeleton.scon-ee503287419e87ed9b1081c8f156e6bb.tscn"]
+
+[params]
+
